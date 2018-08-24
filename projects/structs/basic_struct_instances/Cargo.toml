@@ -1,0 +1,6 @@
+[package]
+name = "basic_struct_instances"
+version = "0.1.0"
+authors = ["Xairi <xairi.valdivia@gmail.com>"]
+
+[dependencies]
