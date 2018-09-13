@@ -1,17 +1,18 @@
 mod network {
-    fn connect() {}
+    pub fn connect() {}
 
     mod client {
         fn connect() {}
     }
 }
 
-
-
 #[cfg(test)]
 mod tests {
+    use super::network;
     #[test]
     fn it_works() {
-        assert_eq!(2 + 2, 4);
+        // ::network::connect(); --> option 1
+        // super::network::connect(); --> option 2
+        network::connect;
     }
 }
