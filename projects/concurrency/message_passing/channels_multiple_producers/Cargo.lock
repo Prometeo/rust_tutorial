@@ -1,0 +1,4 @@
+[[package]]
+name = "channels_multiple_producers"
+version = "0.1.0"
+

@@ -1,0 +1,6 @@
+[package]
+name = "drop_trait_basic"
+version = "0.1.0"
+authors = ["Xairi <xairi.valdivia@gmail.com>"]
+
+[dependencies]
