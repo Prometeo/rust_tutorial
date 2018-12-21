@@ -1,0 +1,6 @@
+[package]
+name = "matching_literals"
+version = "0.1.0"
+authors = ["Xairi <xairi.valdivia@gmail.com>"]
+
+[dependencies]
