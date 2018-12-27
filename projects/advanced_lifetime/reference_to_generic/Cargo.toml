@@ -1,0 +1,6 @@
+[package]
+name = "reference_to_generic"
+version = "0.1.0"
+authors = ["Xairi <xairi.valdivia@gmail.com>"]
+
+[dependencies]
