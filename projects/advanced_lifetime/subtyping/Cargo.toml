@@ -1,5 +1,5 @@
 [package]
-name = "safe_abstraction"
+name = "subtyping"
 version = "0.1.0"
 authors = ["Xairi <xairi.valdivia@gmail.com>"]
 
